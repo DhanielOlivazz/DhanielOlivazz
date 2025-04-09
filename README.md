@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Web Development and databases</h3>
 
 - 📚 I’m currently learning **Laravel**, **.NET MAUI**, and **C#**
-- 🌐 I enjoy creating web interfaces with **HTML**, **CSS**, and **Bootstrap** using bootstrap
+- 🌐 I enjoy creating web interfaces with **HTML**, **CSS** and **Bootstrap** 
 - 📫 How to reach me: [juandanielolivasmartinez@gmail.com](mailto:juandanielolivasmartinez@gmail.com)
 
 ---
