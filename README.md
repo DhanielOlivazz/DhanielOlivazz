@@ -20,4 +20,10 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaniel_Olivazzz&layout=compact&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhaniel_Olivazzz&show_icons=true&theme=tokyonight"/>
+</p>
