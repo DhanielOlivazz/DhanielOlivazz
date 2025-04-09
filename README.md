@@ -22,7 +22,7 @@
 ---
 ## 🏆 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dDhanielOlivazz&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielOlivazz&layout=compact&langs_count=10)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanielOlivazz&show_icons=true&count_private=true&theme=dark)
 
