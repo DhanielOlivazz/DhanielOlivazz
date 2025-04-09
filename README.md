@@ -20,10 +20,13 @@
 </p>
 
 ---
-## 🏆 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielOlivazz&layout=compact&langs_count=10)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhanielOlivazz&show_icons=true&count_private=true&theme=dark)
-
----
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <div>
+    <h3 align="center">🏆 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielOlivazz&layout=compact&langs_count=10" alt="Top Langs" />
+  </div>
+  <div>
+    <h3 align="center">GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=DhanielOlivazz&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+  </div>
+</div>
