@@ -20,12 +20,12 @@
 </p>
 
 ---
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <div>
-    <h3 align="center">🏆 GitHub Stats</h3>
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
+  <div style="width: 48%;">
+    <h3 align="center">🏆 Top Languages</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanielOlivazz&layout=compact&langs_count=10" alt="Top Langs" />
   </div>
-  <div>
+  <div style="width: 48%;">
     <h3 align="center">GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=DhanielOlivazz&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
   </div>
