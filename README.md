@@ -1,4 +1,4 @@
-<h1 align="center">I'm Dhaniel</h1>
+<h1 align="center">I'm Daniel</h1>
 <h3 align="center">Passionate about Web Development and databases</h3>
 
 - 📚 I’m currently learning **Laravel**, **.NET MAUI**, and **C#**
