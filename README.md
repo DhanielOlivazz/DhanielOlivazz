@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhaniel</h1>
 <h3 align="center">💻 Passionate about Web Development and C# programming</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhaniel_Olivazzz&label=Profile%20views&color=0e75b6&style=flat" alt="Dhaniel_Olivazzz" />
-</p>
-
-- 📚 I’m currently working with **Laravel**, **.NET MAUI**, and **C#**
-- 🌐 I enjoy creating web interfaces with **HTML**, **CSS**, and **Bootstrap**
+- 📚 I’m currently learning **Laravel**, **.NET MAUI**, and **C#**
+- 🌐 I enjoy creating web interfaces with **HTML**, **CSS**, and **Bootstrap** using bootstrap
 - 📫 How to reach me: [juandanielolivasmartinez@gmail.com](mailto:juandanielolivasmartinez@gmail.com)
 
 ---
